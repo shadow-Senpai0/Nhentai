@@ -22,3 +22,4 @@ class Nhentai():
                 event.chat_id,
                 "Open this in google chrome",
                 file= f"{code}.html"
+            )
